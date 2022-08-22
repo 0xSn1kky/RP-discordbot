@@ -1,7 +1,7 @@
 # RP-discordbot
 ## РП бот для дискорда
 ### Инструкция по установке
-** Скачайте два модуля **
+**Скачайте два модуля**
 Windows:
 ```
 pip install discord.py
@@ -14,7 +14,7 @@ pip3 install discord.py
 ```
 pip3 install colorama
 ```
-** Установка кода **
+**Установка кода**
 ```
 git clone https://github.com/0xSn1kky/RP-discordbot.git
 ```
